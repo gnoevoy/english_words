@@ -1,32 +1,34 @@
+import pandas as pd
+import numpy as np
 import random
 
 
-def get_words():
-    with open("words.txt", "r") as f:
-        data = f.read()
-        words = [word for word in data.splitlines()]
-    return words
+def get_new_words(df):
+    num = 20
+    new_words = df.query("is_passed == False")
+    lst = new_words["word"].to_list()
+    res = random.choices(lst, k=num)
+    return res
 
 
-def select_words(n, lst):
-    with open("source.txt", "r") as f:
-        data = f.read()
-        words = [word for word in data.splitlines() if word not in lst]
-        random_words = random.sample(words, n)
-    return random_words
+def get_passed_words(df, lst):
+    # update table
+    df["is_passed"] = np.where(df["word"].isin(lst), True, df["is_passed"])
 
-
-def add_new_words(lst):
-    with open("words.txt", "a") as f:
-        for word in lst:
-            f.write(word + "\n")
+    num = 10
+    new_words = df.query("is_passed == True")
+    lst = new_words["word"].to_list()
+    res = random.choices(lst, k=num)
+    return res
 
 
 def main():
-    words = get_words()
-    selected_words = select_words(10, words)
-    print(f"Selected words: {selected_words}")
-    add_new_words(selected_words)
+    df = pd.read_csv("words.csv")
+    new_words = get_new_words(df)
+    passed_words = get_passed_words(df, new_words)
+
+    print("New words:", new_words)
+    print("Passed words:", passed_words)
 
 
 if __name__ == "__main__":

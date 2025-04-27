@@ -1,0 +1,3847 @@
+word,is_passed
+abandon,False
+abandoned,False
+ability,False
+able,False
+about,False
+above,True
+abroad,False
+absence,False
+absent,False
+absolute,False
+absolutely,False
+absorb,False
+abuse,False
+academic,False
+accent,False
+accept,False
+acceptable,False
+access,True
+accident,True
+accidental,False
+accidentally,True
+accommodation,False
+accompany,False
+according to,False
+account,False
+account for,False
+accurate,False
+accurately,False
+accuse,False
+achieve,False
+achievement,False
+acid,False
+acknowledge,False
+a couple,False
+acquire,False
+across,False
+act,True
+action,False
+active,True
+actively,False
+activity,False
+actor,False
+actress,False
+actual,False
+actually,False
+ad,False
+adapt,False
+add,False
+addition,False
+additional,False
+add on,False
+address,False
+add up,False
+add up to,False
+adequate,False
+adequately,False
+adjust,False
+admiration,True
+admire,False
+admit,False
+adopt,False
+adult,False
+advance,False
+advanced,False
+advantage,False
+adventure,False
+advert,False
+advertise,False
+advertisement,False
+advertising,False
+advice,False
+advise,False
+affair,False
+affect,False
+affection,False
+afford,False
+afraid,False
+after,False
+afternoon,False
+afterwards,False
+again,False
+against,False
+age,True
+aged,False
+agency,False
+agent,False
+aggressive,False
+ago,False
+agree,True
+agreement,False
+ahead,False
+aid,False
+aim,False
+air,True
+aircraft,False
+airport,False
+alarm,False
+alarmed,False
+alarming,False
+alcohol,False
+alcoholic,True
+alive,False
+all,False
+allied,False
+allow,False
+allow for,False
+all right,False
+ally,False
+almost,False
+alone,True
+along,False
+alongside,False
+aloud,False
+alphabet,False
+alphabetical,False
+alphabetically,False
+already,False
+also,False
+alter,False
+alternative,False
+alternatively,False
+although,False
+altogether,False
+always,False
+a.m.,False
+amaze,False
+amazed,False
+amazing,False
+ambition,False
+ambulance,False
+among,False
+amount,True
+amount to,False
+amuse,False
+amused,False
+amusing,False
+analyse,False
+analysis,False
+ancient,False
+and,True
+anger,False
+angle,False
+angrily,False
+angry,False
+animal,False
+ankle,False
+anniversary,False
+announce,False
+annoy,False
+annoyed,False
+annoying,False
+annual,False
+annually,True
+another,False
+answer,False
+anti-,False
+anticipate,True
+anxiety,False
+anxious,False
+anxiously,False
+any,False
+anybody,False
+anyone,False
+anything,False
+anyway,True
+anywhere,False
+apart,False
+apart from,False
+apartment,False
+apologize,False
+apparent,False
+apparently,False
+appeal,False
+appear,False
+appearance,False
+apple,False
+application,False
+apply,False
+appoint,False
+appointment,False
+appreciate,True
+approach,False
+appropriate,False
+approval,False
+approve,False
+approving,False
+approximate,False
+approximately,False
+April,True
+area,False
+argue,False
+argument,False
+arise,True
+arm,False
+armed,False
+arms,False
+army,False
+around,False
+arrange,False
+arrangement,False
+arrest,False
+arrival,False
+arrive,False
+arrive at,False
+arrow,False
+art,False
+article,False
+artificial,False
+artificially,False
+artist,False
+artistic,False
+artistically,False
+as,False
+ashamed,False
+aside,False
+aside from,False
+ask,False
+asleep,True
+aspect,True
+assist,False
+assistance,False
+assistant,False
+associate,False
+associated,False
+association,False
+assume,False
+assure,False
+at,False
+atmosphere,False
+atom,False
+attach,True
+attached,False
+attack,False
+attempt,False
+attempted,False
+attend,False
+attend to,False
+attention,False
+attitude,False
+attorney,False
+attract,False
+attraction,False
+attractive,False
+audience,False
+August,False
+aunt,False
+author,True
+authority,False
+automatic,False
+automatically,False
+autumn,False
+available,False
+average,False
+avoid,False
+awake,False
+award,False
+aware,False
+away,False
+awful,False
+awfully,True
+awkward,False
+awkwardly,False
+baby,False
+back,False
+background,False
+back up,False
+backward,False
+backwards,False
+bacteria,False
+bad,False
+badly,False
+bad-tempered,False
+bag,False
+baggage,True
+bake,True
+balance,False
+ball,False
+ban,False
+band,False
+bandage,False
+bank,False
+bar,False
+bargain,False
+barrier,False
+base,False
+based,False
+base on,True
+basic,False
+basically,True
+basis,False
+bath,False
+bathroom,False
+battery,False
+battle,False
+bay,False
+be,False
+beach,False
+beak,False
+bear,False
+beard,False
+beat,False
+beat up,False
+beautiful,False
+beautifully,False
+beauty,False
+because,False
+because of,False
+become,False
+bed,False
+bedroom,True
+beef,False
+beer,False
+before,False
+begin,False
+beginning,False
+behalf,True
+behave,False
+behaviour,False
+behind,False
+be left over,False
+belief,False
+believe,False
+believe in,False
+bell,False
+belong,True
+belong to,False
+below,False
+belt,True
+bend,False
+beneath,False
+benefit,False
+bent,False
+beside,False
+best,False
+bet,False
+better,False
+betting,False
+between,False
+beyond,False
+bicycle,False
+bid 1,False
+big,False
+bike,False
+bill,False
+billion,False
+bin,False
+biology,False
+bird,False
+birth,False
+birthday,False
+biscuit,False
+bit,False
+bite,False
+bitter,False
+bitterly,False
+black,False
+blade,False
+blame,True
+blank,False
+blind,False
+block,False
+blonde,False
+blood,False
+blow,False
+blow out,False
+blow up,False
+blue,False
+board,True
+boat,True
+body,False
+boil,False
+bomb,False
+bone,False
+book,False
+boot,False
+border,False
+bore,False
+bored,False
+boring,False
+born,False
+borrow,True
+boss,False
+both,False
+bother,False
+bottle,False
+bottom,False
+bound,False
+bowl,False
+box,False
+boy,True
+boyfriend,False
+brain,False
+branch,False
+brand,False
+brave,False
+bread,False
+break,False
+break down,False
+breakfast,False
+break in,False
+break into,False
+break off,False
+break out,False
+break up,False
+breast,False
+breath,False
+breathe,False
+breathe in,False
+breathe out,False
+breathing,False
+breed,False
+brick,False
+bridge,False
+brief,False
+briefly,False
+bright,False
+brightly,False
+brilliant,False
+bring,False
+bring back,False
+bring down,False
+bring forward,False
+bring out,False
+bring up,False
+broad,True
+broadcast,False
+broadly,False
+broken,True
+brother,False
+brown,False
+brush,False
+bubble,False
+budget,True
+build,False
+building,False
+build up,False
+bullet,False
+bunch,False
+burn,False
+burn down,False
+burnt,False
+burst,False
+burst into,False
+burst out,False
+bury,False
+bus,False
+bush,True
+business,False
+businessman,False
+busy,False
+but,True
+butter,False
+button,False
+buy,False
+buyer,False
+by,False
+bye,False
+cabinet,False
+cable,False
+cake,False
+calculate,False
+calculation,False
+call,False
+call back,True
+called,False
+call for,False
+call off,False
+call up,False
+calm,False
+calm down,False
+calmly,False
+camera,False
+camp,False
+campaign,False
+camping,True
+can 1,False
+can 2,False
+cancel,False
+cancer,False
+candidate,False
+candy,False
+cannot,False
+cap,False
+capable,False
+capacity,False
+capital,False
+captain,False
+capture,False
+car,True
+card,False
+cardboard,False
+care,False
+career,False
+care for,False
+careful,False
+carefully,False
+careless,False
+carelessly,False
+carpet,False
+carrot,False
+carry,False
+carry on,False
+carry out,False
+case,False
+cash,False
+cast,False
+castle,False
+cat,False
+catch,False
+catch up,False
+category,False
+cause,False
+CD,True
+cease,True
+ceiling,False
+celebrate,False
+celebration,False
+cell,False
+cell phone,False
+cent,False
+centimetre,False
+central,False
+centre,False
+century,False
+ceremony,False
+certain,False
+certainly,False
+certificate,False
+chain,False
+chair,False
+chairman,False
+chairwoman,False
+challenge,True
+chamber,False
+chance,False
+change,False
+change round,True
+channel,False
+chapter,False
+character,False
+characteristic,False
+charge,False
+charity,False
+chart,False
+chase,False
+chase away,False
+chat,False
+cheap,False
+cheaply,False
+cheat,False
+cheat of,False
+check,False
+check in,True
+check into,False
+check on,False
+check out,False
+check over,False
+check up on,False
+cheek,False
+cheerful,False
+cheerfully,False
+cheese,False
+chemical,False
+chemist,True
+chemistry,True
+cheque,False
+chest,False
+chew,False
+chicken,True
+chief,False
+child,False
+chin,False
+chip,False
+chocolate,False
+choice,False
+choose,False
+chop,False
+chop down,False
+chop off,False
+church,False
+cigarette,False
+cinema,False
+circle,False
+circumstance,False
+citizen,False
+city,False
+civil,False
+claim,False
+clap,False
+class,False
+classic,False
+classroom,False
+clean,False
+clean up,False
+clear,False
+clearly,False
+clear out,True
+clear up,False
+clerk,False
+clever,False
+click,False
+client,False
+climate,False
+climb,False
+climbing,False
+clock,False
+close 1,False
+close 2,False
+closed,False
+closely,False
+closet,False
+cloth,True
+clothes,False
+clothing,False
+cloud,False
+club,False
+coach,False
+coal,False
+coast,False
+coat,True
+code,False
+coffee,False
+coin,False
+cold,False
+coldly,False
+collapse,False
+colleague,True
+collect,False
+collection,False
+college,False
+colour,False
+coloured,False
+column,False
+combination,True
+combine,False
+come,False
+come across,False
+come down,False
+comedy,True
+come from,False
+come in,False
+come off,False
+come on,True
+come out,False
+come round,True
+come to,False
+come up,False
+come up to,False
+comfort,False
+comfortable,False
+comfortably,False
+command,False
+comment,True
+commercial,True
+commission,True
+commit,False
+commitment,False
+committee,False
+common,False
+commonly,False
+communicate,False
+communication,False
+community,False
+company,False
+compare,False
+comparison,False
+compete,False
+competition,False
+competitive,False
+complain,False
+complaint,True
+complete,False
+completely,False
+complex,False
+complicate,False
+complicated,False
+computer,False
+concentrate,False
+concentrate on,False
+concentration,False
+concept,False
+concern,True
+concerned,True
+concerning,True
+concert,False
+conclude,False
+conclusion,False
+concrete,False
+condition,True
+conduct,False
+conference,False
+confidence,False
+confident,False
+confidently,False
+confine,False
+confined,False
+confirm,False
+conflict,False
+confront,False
+confuse,False
+confused,False
+confusing,False
+confusion,False
+congratulate,False
+congratulation,False
+congress,False
+connect,False
+connected,False
+connection,False
+conscious,False
+consequence,False
+conservative,False
+consider,False
+considerable,False
+considerably,False
+consideration,False
+consist,True
+consist of,False
+constant,False
+constantly,False
+construct,False
+construction,False
+consult,False
+consumer,False
+contact,False
+contain,False
+container,False
+contemporary,False
+content 1,False
+contest,False
+context,False
+continent,False
+continue,False
+continuous,False
+continuously,False
+contract,False
+contrast,False
+contrasting,False
+contribute,False
+contribution,False
+control,False
+controlled,False
+convenient,False
+convention,True
+conventional,False
+conversation,False
+convert,False
+convince,True
+cook,False
+cooker,False
+cookie,False
+cooking,False
+cool,False
+cool down,False
+cope,False
+copy,False
+core,False
+corner,False
+correct,False
+correctly,False
+cost,False
+cottage,False
+cotton,False
+cough,False
+coughing,False
+could,False
+council,False
+count,False
+counter,False
+count on,False
+country,False
+countryside,False
+county,False
+couple,False
+courage,False
+course,False
+court,False
+cousin,False
+cover,False
+covered,False
+covering,False
+cover up,False
+cow,False
+crack,False
+cracked,False
+craft,False
+crash,False
+crazy,False
+cream,False
+create,False
+creature,False
+credit,False
+credit card,False
+crime,False
+criminal,False
+crisis,False
+crisp,False
+criterion,False
+critical,False
+criticism,False
+criticize,False
+crop,False
+cross,False
+cross out,False
+crowd,False
+crowded,False
+crown,False
+crucial,False
+cruel,False
+crush,False
+cry,False
+cry out,False
+cultural,False
+culture,False
+cup,False
+cupboard,False
+curb,False
+cure,False
+curious,False
+curiously,False
+curl,True
+curl up,False
+curly,False
+current,False
+currently,False
+curtain,False
+curve,False
+curved,True
+custom,False
+customer,False
+customs,False
+cut,False
+cut back,False
+cut down,False
+cut off,False
+cut out,False
+cut up,False
+cycle,False
+cycling,False
+dad,False
+daily,False
+damage,False
+damp,False
+dance,False
+dancer,False
+dancing,False
+danger,False
+dangerous,False
+dare,False
+dark,False
+data,False
+date,False
+date back,False
+daughter,False
+day,False
+dead,False
+deaf,False
+deal,False
+deal in,False
+deal with,False
+dear,False
+death,False
+debate,False
+debt,False
+decade,False
+decay,False
+December,False
+decide,False
+decide on,False
+decision,True
+declare,False
+decline,False
+decorate,False
+decoration,False
+decorative,False
+decrease,False
+deep,False
+deeply,False
+defeat,False
+defence,False
+defend,False
+define,False
+definite,False
+definitely,False
+definition,False
+degree,False
+delay,False
+deliberate,True
+deliberately,False
+delicate,False
+delight,False
+delighted,False
+deliver,False
+delivery,False
+demand,False
+demonstrate,False
+dentist,True
+deny,False
+department,False
+departure,True
+depend,False
+depend on,False
+deposit,False
+depress,False
+depressed,False
+depressing,True
+depth,False
+derive,True
+derive from,True
+describe,False
+description,True
+desert,False
+deserted,False
+deserve,False
+design,True
+desire,False
+desk,True
+desperate,False
+desperately,False
+despite,False
+destroy,True
+destruction,False
+detail,False
+detailed,False
+determination,False
+determine,False
+determined,False
+develop,True
+development,False
+device,False
+devote,False
+devoted,False
+devote to,True
+diagram,False
+diamond,False
+diary,False
+dictionary,False
+die,False
+die away,False
+die out,False
+diet,False
+difference,False
+different,False
+differently,False
+difficult,False
+difficulty,False
+dig,False
+digital,False
+dinner,False
+direct,True
+direction,True
+directly,False
+director,False
+dirt,False
+dirty,False
+disabled,False
+disadvantage,False
+disagree,False
+disagreement,False
+disagree with doing,False
+disappear,False
+disappoint,False
+disappointed,False
+disappointing,False
+disappointment,False
+disapproval,False
+disapprove,False
+disapproving,False
+disaster,False
+disc,False
+discipline,False
+discount,False
+discover,False
+discovery,True
+discuss,False
+discussion,False
+disease,False
+disgust,False
+disgusted,False
+disgusting,False
+dish,False
+dishonest,False
+dishonestly,False
+disk,False
+dislike,True
+dismiss,False
+display,False
+dissolve,False
+distance,False
+distinguish,False
+distribute,False
+distribution,False
+district,False
+disturb,False
+disturbing,False
+divide,False
+division,False
+divorce,False
+divorced,False
+do 1,False
+doctor,False
+document,False
+dog,True
+dollar,True
+domestic,False
+dominate,False
+door,False
+dot,False
+double,False
+doubt,False
+do up,False
+do with,False
+do without,True
+down,False
+downstairs,False
+downward,False
+downwards,False
+dozen,True
+draft,False
+drag,False
+drama,False
+dramatic,False
+dramatically,False
+draw,False
+drawer,False
+drawing,False
+dream,False
+dress,False
+dressed,False
+dress up,False
+drink,False
+drive,False
+drive away,False
+drive off,True
+driver,False
+driving,False
+drop,False
+drop out,False
+drug,False
+drugstore,True
+drum,False
+drunk,False
+dry,False
+dry off,False
+dry up,False
+due,False
+dull,False
+dump,False
+during,False
+dust,True
+duty,False
+DVD,False
+dying,False
+each,True
+each other,False
+ear,False
+early,False
+earn,False
+earth,True
+ease,False
+easily,False
+east,False
+eastern,False
+easy,True
+eat,False
+eat out,False
+eat up,False
+economic,False
+economy,False
+edge,False
+edition,False
+editor,False
+educate,False
+educated,False
+education,False
+effect,False
+effective,False
+effectively,False
+efficient,False
+efficiently,False
+effort,False
+e.g.,False
+egg,False
+eight,False
+eighteen,False
+eighteenth,False
+eighth,False
+eightieth,False
+eighty,True
+either,False
+elbow,False
+elderly,False
+elect,False
+election,False
+electric,True
+electrical,False
+electricity,False
+electronic,False
+elegant,False
+element,False
+elevator,True
+eleven,False
+eleventh,False
+else,False
+elsewhere,False
+email,False
+embarrass,False
+embarrassed,False
+embarrassing,False
+embarrassment,False
+emerge,True
+emergency,False
+emotion,False
+emotional,False
+emotionally,False
+emphasis,False
+emphasize,False
+empire,False
+employ,False
+employee,False
+employer,False
+employment,False
+empty,False
+enable,False
+encounter,False
+encourage,False
+encouragement,False
+end,False
+end in,False
+ending,True
+end up,True
+enemy,False
+energy,False
+engage,False
+engaged,False
+engine,True
+engineer,False
+engineering,False
+enjoy,False
+enjoyable,False
+enjoyment,False
+enormous,False
+enough,False
+enquiry,False
+ensure,True
+enter,False
+entertain,False
+entertainer,False
+entertaining,False
+entertainment,False
+enthusiasm,False
+enthusiastic,True
+enthusiastically,False
+entire,False
+entirely,False
+entitle,False
+entrance 1,False
+entry,False
+envelope,False
+environment,False
+environmental,False
+equal,False
+equally,False
+equipment,False
+equivalent,False
+error,False
+escape,False
+especially,False
+essay,False
+essential,False
+essentially,False
+establish,False
+estate,False
+estimate,False
+etc.,False
+euro,False
+even,False
+evening,False
+event,False
+eventually,True
+ever,False
+every,False
+everybody,False
+everyone,False
+everything,False
+everywhere,False
+evidence,False
+evil,True
+ex-,False
+exact,False
+exactly,False
+exaggerate,False
+exaggerated,False
+exam,False
+examination,False
+examine,False
+example,False
+excellent,False
+except,False
+exception,False
+exchange,False
+excite,True
+excited,False
+excitement,False
+exciting,False
+exclude,False
+excluding,False
+excuse,False
+executive,False
+exercise,False
+exhibit,False
+exhibition,False
+exist,False
+existence,False
+exit,False
+expand,True
+expect,False
+expectation,False
+expected,False
+expense,False
+expensive,False
+experience,False
+experienced,False
+experiment,False
+expert,False
+explain,False
+explanation,False
+explode,False
+explore,False
+explosion,False
+export,True
+expose,False
+express,False
+expression,False
+extend,False
+extension,True
+extensive,False
+extent,False
+extra,False
+extraordinary,False
+extreme,False
+extremely,False
+eye,False
+face,False
+face up to,False
+facility,False
+fact,True
+factor,False
+factory,False
+fail,False
+failure,False
+faint,False
+faintly,True
+fair,False
+fairly,False
+faith,True
+faithful,False
+faithfully,False
+fall,False
+false,False
+fame,False
+familiar,False
+family,False
+famous,False
+fan,False
+fancy,False
+far,False
+farm,True
+farmer,False
+farming,False
+farther,False
+farthest,False
+fashion,False
+fashionable,True
+fast,False
+fasten,False
+fat,True
+father,False
+faucet,True
+fault,False
+favour,False
+favourite,False
+fear,False
+feather,False
+feature,False
+February,False
+federal,False
+fee,False
+feed,False
+feel,False
+feeling,False
+fellow,False
+female,False
+fence,False
+festival,False
+fetch,False
+fever,False
+few,False
+field,False
+fifteen,False
+fifteenth,True
+fifth,False
+fiftieth,True
+fifty,False
+fight,False
+fighting,False
+figure,False
+figure out,False
+file,False
+fill,True
+fill in,False
+fill out,False
+fill up,False
+film,False
+final,True
+finally,False
+finance,False
+financial,False
+find,False
+find out,False
+fine,False
+finely,False
+finger,False
+finish,False
+finished,False
+finish off,False
+fire,False
+firm,False
+firmly,False
+first,False
+fish,False
+fishing,False
+fit,False
+fit in,False
+five,True
+fix,False
+fixed,False
+flag,False
+flame,False
+flash,False
+flat,False
+flavour,False
+flesh,False
+flight,False
+float,False
+flood,False
+flooded,False
+flooding,False
+floor,False
+flour,True
+flow,False
+flower,False
+flu,True
+fly,False
+flying,False
+focus,False
+fold,False
+folding,False
+follow,False
+following,False
+follow up,True
+food,False
+foot,False
+football,True
+for,False
+force,False
+forecast,False
+foreign,False
+forest,True
+forever,False
+forget,False
+forgive,False
+fork,False
+form,False
+formal,False
+formally,False
+former,False
+formerly,False
+formula,False
+fortieth,True
+fortune,False
+forty,False
+forward,True
+found,False
+foundation,False
+four,False
+fourteen,False
+fourteenth,False
+fourth,False
+frame,False
+free,False
+freedom,False
+freely,False
+freeze,False
+frequent,True
+frequently,False
+fresh,False
+freshly,False
+Friday,False
+fridge,False
+friend,False
+friendly,False
+friendship,False
+frighten,False
+frighten away/off,False
+frightened,False
+frightening,False
+from,True
+front,False
+frozen,False
+fruit,False
+fry,False
+fuel,False
+full,False
+fully,False
+fun,False
+function,False
+function as,False
+fund,False
+fundamental,False
+funeral,False
+funny,False
+fur,False
+furniture,False
+further,False
+future,False
+gain,False
+gallon,False
+gamble,False
+gambling,False
+game,False
+gap,False
+garage,False
+garbage,False
+garden,False
+gas,False
+gasoline,False
+gate,False
+gather,False
+gear,False
+general,False
+generally,True
+generate,False
+generation,False
+generous,False
+generously,False
+gentle,True
+gentleman,False
+gently,True
+genuine,False
+genuinely,False
+geography,False
+get,True
+get away,False
+get away with,False
+get back,False
+get by,True
+get in,False
+get into,False
+get off,False
+get on,False
+get on with,False
+get out of,False
+get over,False
+get round,False
+get round to,False
+get through,False
+get up,False
+giant,False
+gift,False
+girl,False
+girlfriend,False
+give,True
+give away,False
+give back,False
+give in,False
+give off,False
+give out,False
+give up,False
+glad,False
+glass,False
+global,False
+glove,False
+glue,False
+go,False
+go ahead,False
+goal,False
+go away,False
+go back,False
+go back to,False
+go by,True
+god,False
+go down,True
+go into,False
+gold,False
+good,False
+goodbye,False
+goods,False
+go off,False
+go on,False
+go on doing,False
+go out,False
+go out with,False
+go over,False
+go round,False
+go through,False
+go through with,False
+go to,False
+go up,False
+govern,False
+government,False
+governor,False
+go with,False
+go without,False
+grab,False
+grade,True
+gradual,False
+gradually,False
+grain,False
+gram,False
+grammar,False
+grand,False
+grandchild,False
+granddaughter,False
+grandfather,False
+grandmother,False
+grandparent,False
+grandson,True
+grant,False
+grass,False
+grateful,False
+grave 1,False
+gravely,False
+great,False
+greatly,False
+green,False
+grey,False
+grocery,False
+ground,False
+group,True
+grow,False
+growth,True
+grow up,False
+guarantee,False
+guard,False
+guess,False
+guest,False
+guide,False
+guilty,False
+gun,False
+guy,False
+habit,False
+hair,False
+hairdresser,True
+half,False
+hall,False
+hammer,False
+hand,False
+hand back,False
+hand down,False
+hand in,False
+handle,False
+hand out,False
+hand over,False
+hand round,False
+hang,False
+hang about,False
+hang about with,True
+hang around,False
+hang around with,False
+hang on,False
+hang on to,False
+hang up,False
+happen,False
+happen to,False
+happily,False
+happiness,False
+happy,False
+hard,False
+hardly,False
+harm,False
+harmful,False
+harmless,False
+hat,True
+hate,False
+hatred,False
+have,False
+have back,False
+have on,True
+have to,False
+he,False
+head,False
+headache,False
+heal,False
+health,True
+healthy,False
+hear,False
+hear from,False
+hearing,True
+hear of,False
+heart,False
+heat,False
+heating,False
+heat up,False
+heaven,True
+heavily,False
+heavy,False
+heel,False
+height,False
+hell,False
+hello,True
+help,False
+helpful,True
+help out,False
+hence,False
+her,False
+here,False
+hero,False
+hers,False
+herself,True
+hesitate,False
+hi,False
+hide,False
+high,False
+highlight,False
+highly,False
+highway,False
+hill,False
+him,False
+himself,True
+hip,False
+hire,False
+hire out,False
+his,False
+historical,False
+history,False
+hit,False
+hobby,False
+hold,False
+hold back,False
+hold on,True
+hold on to,False
+hold out,False
+hold up,False
+hole,False
+holiday,True
+hollow,False
+holy,False
+home,False
+homework,False
+honest,False
+honestly,False
+honour,False
+hook,False
+hope,False
+horizontal,True
+horn,False
+horror,False
+horse,False
+hospital,False
+host,False
+hot,True
+hotel,False
+hour,False
+house,False
+household,False
+housing,False
+how,False
+however,False
+huge,False
+human,False
+humorous,False
+humour,False
+hundred,False
+hundredth,False
+hungry,False
+hunt,False
+hunting,False
+hurry,False
+hurry up,True
+hurt,False
+husband,False
+I,False
+ice,False
+ice cream,False
+idea,False
+ideal,False
+identify,False
+identify with,True
+identity,False
+i.e.,False
+if,False
+ignore,False
+ill,False
+illegal,False
+illegally,False
+illness,True
+illustrate,True
+image,False
+imaginary,False
+imagination,False
+imagine,False
+immediate,False
+immediately,False
+immoral,False
+impact,True
+impatient,False
+implication,False
+imply,False
+import,True
+importance,False
+important,False
+importantly,True
+impose,False
+impossible,False
+impress,True
+impressed,False
+impression,False
+impressive,False
+improve,False
+improvement,False
+in,False
+inability,False
+inch,False
+incident,False
+include,False
+including,False
+income,False
+increase,False
+increasingly,False
+indeed,True
+independence,False
+independent,False
+independently,False
+index,False
+indicate,False
+indication,False
+indirect,True
+indirectly,False
+individual,False
+indoor,False
+indoors,False
+industrial,False
+industry,False
+inevitable,False
+inevitably,False
+infect,False
+infected,False
+infection,False
+infectious,False
+influence,False
+inform,False
+informal,False
+information,False
+ingredient,False
+initial,False
+initially,False
+initiative,False
+injure,False
+injured,False
+injury,False
+ink,False
+inner,False
+innocent,False
+insect,False
+insert,False
+inside,False
+insist,False
+insist on,False
+insist on doing,False
+install,False
+instance,False
+instead,False
+instead of,False
+institute,False
+institution,False
+instruction,False
+instrument,False
+insult,True
+insulting,False
+insurance,False
+intelligence,False
+intelligent,False
+intend,False
+intended,True
+intention,True
+interest,True
+interested,False
+interesting,False
+interior,False
+internal,False
+international,False
+Internet,False
+interpret,True
+interpretation,True
+interrupt,False
+interruption,False
+interval,False
+interview,False
+into,False
+introduce,False
+introduction,False
+invent,False
+invention,False
+invest,False
+investigate,False
+investigation,False
+investment,False
+invitation,False
+invite,False
+involve,False
+involved,False
+involvement,False
+iron,False
+irritate,False
+irritated,False
+irritating,True
+island,False
+issue,False
+it,False
+item,False
+its,False
+itself,False
+jacket,False
+jam,False
+January,False
+jealous,False
+jeans,False
+jelly,False
+jewellery,False
+job,False
+join,False
+join in,False
+joint,False
+jointly,False
+joke,False
+journalist,False
+journey,False
+joy,False
+judge,True
+judgement,False
+juice,False
+July,False
+jump,False
+June,False
+junior,False
+just,False
+justice,False
+justified,False
+justify,False
+keen,False
+keep,False
+keep out,False
+keep out of,True
+keep up,False
+keep up with,False
+key,False
+keyboard,False
+kick,False
+kid,False
+kill,False
+killing,False
+kilogram,False
+kilometre,False
+kind,False
+kindly,False
+kindness,False
+king,False
+kiss,False
+kitchen,False
+knee,False
+knife,False
+knit,False
+knitted,False
+knitting,False
+knock,False
+knock down,False
+knock out,False
+knot,True
+know,False
+knowledge,False
+lab,True
+label,False
+laboratory,False
+labour,False
+lack,False
+lacking,False
+lady,False
+lake,False
+lamp,False
+land,False
+landscape,True
+lane,False
+language,False
+large,False
+largely,False
+last 1,False
+late,False
+later,False
+latest,False
+latter,False
+laugh,False
+laugh at,False
+launch,False
+law,False
+lawyer,False
+lay,False
+layer,False
+lazy,False
+lead 1,False
+leader,False
+leading 1,False
+leaf,True
+league,False
+lean,False
+learn,False
+least,False
+leather,False
+leave,False
+leave out,False
+lecture,False
+left,False
+leg,False
+legal,False
+legally,False
+lemon,False
+lend,False
+length,False
+less,False
+lesson,False
+let,True
+let down,False
+let off,False
+letter,False
+level,False
+library,False
+licence,False
+license,False
+lid,True
+lie 1,False
+lie 2,True
+lie around,False
+lie down,False
+life,False
+lift,False
+light,False
+lightly,False
+like,True
+likely,False
+limit,False
+limited,False
+limit to,False
+line,False
+link,False
+lip,False
+liquid,False
+list,False
+listen,False
+literature,True
+litre,False
+little,False
+live 1,False
+live 2,False
+lively,False
+live on,False
+live through,False
+live together,True
+living,False
+load,False
+loan,False
+local,False
+locally,False
+locate,False
+located,False
+location,True
+lock,False
+lock up,False
+logic,False
+logical,True
+lonely,False
+long,False
+look,False
+look after,True
+look at,False
+look down on,False
+look forward to,False
+look into,False
+look on,False
+look on with,False
+look out,False
+look out for,False
+look round,False
+look through,False
+look up,False
+look up to,False
+loose,False
+loosely,False
+lord,False
+lorry,False
+lose,False
+loss,False
+lost,False
+lot,False
+loud,False
+loudly,False
+love,False
+lovely,False
+lover,False
+low,False
+loyal,False
+luck,False
+lucky,False
+luggage,False
+lump,False
+lunch,False
+lung,False
+machine,False
+machinery,False
+mad,False
+magazine,False
+magic,False
+mail,False
+main,False
+mainly,False
+maintain,False
+major,False
+majority,False
+make,False
+make into,False
+make up,False
+make-up,False
+make up for,False
+male,False
+mall,False
+man,False
+manage,False
+management,False
+manager,False
+manner,False
+manufacture,False
+manufacturer,False
+manufacturing,True
+many,False
+map,False
+march,False
+March,False
+mark,False
+market,False
+marketing,False
+marriage,False
+married,False
+marry,False
+mass,False
+massive,False
+master,False
+match,False
+matching,False
+match up,False
+mate,False
+material,False
+mathematics,False
+matter,False
+maximum,False
+may,False
+May,False
+maybe,False
+mayor,False
+me,False
+meal,False
+mean,False
+meaning,False
+means,False
+meanwhile,False
+measure,False
+measurement,False
+meat,False
+media,True
+medical,False
+medicine,False
+medium,False
+meet,False
+meeting,False
+meet up,True
+meet with,False
+melt,False
+member,False
+membership,False
+memory,False
+mental,False
+mentally,False
+mention,False
+menu,False
+mere,False
+merely,False
+mess,True
+message,False
+metal,True
+method,False
+metre,False
+mid-,False
+midday,False
+middle,False
+midnight,False
+might,False
+mild,True
+mile,True
+military,False
+milk,False
+milligram,True
+millimetre,False
+million,False
+millionth,False
+mind,False
+mine,False
+mineral,False
+minimum,False
+minister,False
+ministry,False
+minor,False
+minority,False
+minute 1,False
+mirror,False
+miss,False
+missing,False
+miss out,False
+mistake,False
+mistake for,False
+mistaken,False
+mix,False
+mixed,False
+mixture,True
+mix up,False
+mobile,False
+mobile phone,False
+model,False
+modern,False
+mom,False
+moment,False
+Monday,False
+money,False
+monitor,False
+month,False
+mood,False
+moon,False
+moral,False
+morally,True
+more,False
+moreover,False
+morning,False
+most,False
+mostly,False
+mother,False
+motion,False
+motor,False
+motorbike,False
+motorcycle,False
+mount,False
+mountain,True
+mouse,False
+mouth,False
+move,False
+move in,False
+movement,False
+move out,False
+move over,False
+movie,True
+movie theater,False
+moving,False
+Mr,False
+Mrs,False
+Ms,False
+much,False
+mud,False
+multiply,False
+mum,False
+murder,False
+muscle,False
+museum,False
+music,True
+musical,False
+musician,False
+must,False
+my,False
+myself,False
+mysterious,False
+mystery,True
+nail,False
+naked,False
+name,True
+narrow,False
+nation,False
+national,False
+natural,False
+naturally,False
+nature,True
+navy,True
+near,False
+nearby,False
+nearly,False
+neat,False
+neatly,False
+necessarily,False
+necessary,False
+neck,False
+need,False
+needle,True
+negative,False
+neighbour,True
+neighbourhood,False
+neither,True
+nephew,False
+nerve,True
+nervous,True
+nervously,False
+nest,False
+net,True
+network,False
+never,False
+nevertheless,False
+new,False
+newly,False
+news,False
+newspaper,True
+next,False
+next to,False
+nice,False
+nicely,False
+niece,False
+night,False
+nine,False
+nineteen,False
+nineteenth,True
+ninetieth,False
+ninety,False
+ninth,True
+no,False
+nobody,False
+noise,False
+noisily,False
+noisy,False
+non-,False
+none,False
+nonsense,False
+no one,False
+nor,False
+normal,False
+normally,False
+north,False
+northern,False
+nose,False
+not,False
+note,False
+note down,False
+nothing,False
+notice,False
+noticeable,False
+novel,False
+November,False
+now,False
+nowhere,False
+nuclear,False
+number,False
+nurse,False
+nut,True
+obey,False
+object,False
+objective,True
+observation,False
+observe,False
+obtain,False
+obvious,False
+obviously,False
+occasion,False
+occasionally,False
+occupied,True
+occupy,False
+occur,False
+occur to,False
+ocean,False
+o’clock,False
+October,False
+odd,False
+oddly,False
+of,False
+off,False
+offence,False
+offend,False
+offense,False
+offensive,False
+offer,False
+office,False
+officer,False
+official,False
+officially,False
+often,False
+oh,False
+oil,False
+OK,False
+old,False
+old-fashioned,False
+on,False
+once,False
+one,False
+one another,True
+onion,False
+online,False
+only,False
+onto,False
+open,False
+opening,True
+openly,False
+open up,False
+operate,False
+operation,False
+opinion,True
+opponent,False
+opportunity,False
+oppose,False
+opposed,False
+opposing,False
+opposite,False
+opposition,False
+option,False
+or,False
+orange,False
+order,False
+ordinary,False
+organ,True
+organization,False
+organize,False
+organized,False
+origin,False
+original,False
+originally,False
+other,False
+otherwise,False
+ought to,False
+our,False
+ours,False
+ourselves,False
+out,False
+outdoor,False
+outdoors,False
+outer,False
+outline,False
+output,False
+outside,False
+outstanding,False
+oven,False
+over,False
+overall,True
+overcome,False
+owe,False
+own,False
+owner,False
+own up,False
+pace 1,False
+pack,False
+package,False
+packaging,True
+packet,False
+pack up,False
+page,False
+pain,False
+painful,False
+paint,False
+painter,False
+painting,False
+pair,False
+palace,False
+pale,False
+pan 1,False
+panel,False
+pants,False
+paper,False
+parallel,False
+parent,False
+park,False
+parliament,False
+part,False
+particular,True
+particularly,False
+partly,False
+partner,False
+partnership,False
+party,False
+pass,False
+passage,False
+pass away,False
+pass by,False
+passenger,False
+passing,False
+pass on,False
+pass out,False
+passport,False
+pass round,False
+pass through,False
+past,False
+path,False
+patience,False
+patient,False
+pattern,False
+pause,False
+pay,False
+pay back,False
+payment,False
+pay out,False
+pay up,False
+peace,False
+peaceful,False
+peak,False
+pen,False
+pencil,False
+penny,True
+pension 1,False
+people,False
+pepper,False
+per,False
+per cent,False
+perfect,False
+perfectly,False
+perform,False
+performance,False
+performer,False
+perhaps,False
+period,False
+permanent,False
+permanently,False
+permission,False
+permit,False
+person,False
+personal,False
+personality,False
+personally,False
+persuade,True
+pet,False
+petrol,False
+phase,False
+philosophy,True
+phone,False
+photo,False
+photocopy,False
+photograph,False
+photographer,False
+photography,False
+phrase,True
+physical,True
+physically,False
+physics,False
+piano,False
+pick,False
+pick up,False
+picture,False
+piece,False
+pig,False
+pile,True
+pile up,False
+pill,False
+pilot,False
+pin,False
+pink,True
+pint,False
+pipe,False
+pitch,False
+pity,True
+place,False
+plain,False
+plan,False
+plane,False
+planet,False
+planning,False
+plant,False
+plastic,False
+plate,False
+platform,False
+play,False
+play about,True
+player,False
+play with,False
+pleasant,False
+pleasantly,False
+please,False
+pleased,False
+pleasing,False
+pleasure,False
+plenty,False
+plot,True
+plug,False
+plug in,True
+plus 1,False
+p.m.,False
+pocket,False
+poem,False
+poetry,False
+point,False
+pointed,False
+point out,True
+poison,False
+poisonous,False
+pole,False
+police,False
+policy,False
+polish,False
+polite,False
+politely,False
+political,False
+politically,False
+politician,False
+politics,True
+pollution,True
+pool,False
+poor,False
+pop,False
+popular,False
+population,False
+port,False
+pose,False
+position,False
+positive,False
+possess,False
+possession,False
+possibility,False
+possible,False
+possibly,False
+post,False
+post office,False
+pot,True
+potato,False
+potential,False
+potentially,False
+pound,True
+pour,False
+powder,False
+power,False
+powerful,False
+practical,False
+practically,False
+practice,False
+practise,False
+praise,False
+pray,False
+prayer,False
+precise,False
+precisely,False
+predict,False
+prefer,False
+preference,True
+pregnant,False
+premises,False
+preparation,False
+prepare,False
+prepared,False
+presence,False
+present,False
+presentation,False
+preserve,True
+president,False
+press,True
+pressure,False
+presumably,False
+pretend,False
+pretty,False
+prevent,False
+previous,False
+previously,False
+price,False
+pride,False
+priest,False
+primarily,False
+primary,False
+prime minister,False
+prince,False
+princess,False
+principle,False
+print,False
+printer,False
+printing,False
+print off,False
+prior,False
+priority,False
+prison,False
+prisoner,False
+private,False
+privately,True
+prize,False
+probable,False
+probably,False
+problem,False
+procedure,False
+proceed,False
+process 1,False
+produce,False
+producer,False
+product,False
+production,False
+profession,False
+professional,False
+professor,False
+profit,False
+program,False
+programme,False
+progress,True
+project,False
+promise,True
+promote,True
+promotion,False
+prompt,False
+promptly,False
+pronounce,False
+pronunciation,False
+proof,False
+proper,False
+properly,False
+property,False
+proportion,False
+proposal,False
+propose,False
+prospect,False
+protect,False
+protection,False
+protest,False
+proud,True
+proudly,False
+prove,False
+provide,False
+provided,False
+providing,False
+pub,False
+public,False
+publication,False
+publicity,False
+publicly,False
+publish,False
+publishing,False
+pull,True
+pull apart,False
+pull down,False
+pull in,True
+pull off,False
+pull out,False
+pull over,True
+pull through,False
+pull together,True
+pull up,False
+punch,False
+punish,False
+punishment,False
+pupil,True
+purchase,False
+pure,False
+purely,False
+purple,False
+purpose,False
+pursue,False
+push,False
+push about,False
+push forward,False
+put,False
+put away,False
+put back,False
+put down,False
+put forward,False
+put in,False
+put off,False
+put on,False
+put out,False
+put through,False
+put together,False
+put up,False
+put up with,True
+qualification,False
+qualified,False
+qualify,False
+quality,False
+quantity,False
+quarter,False
+queen,False
+question,False
+quick,False
+quickly,False
+quiet,False
+quietly,False
+quit,False
+quite,False
+quote,False
+race,False
+racing,False
+radio,False
+rail,False
+railroad,False
+railway,False
+rain,False
+raise,False
+range,False
+rank,False
+rapid,False
+rapidly,False
+rare,False
+rarely,False
+rate,False
+rather,False
+raw,False
+re-,False
+reach,False
+react,False
+reaction,False
+read,False
+reader,False
+reading,False
+read out,True
+read over,False
+ready,False
+real,False
+realistic,False
+reality,False
+realize,False
+really,False
+rear,False
+reason,False
+reasonable,False
+reasonably,False
+recall,True
+receipt,False
+receive,False
+recent,True
+recently,False
+reception,False
+reckon,False
+reckon on,False
+recognition,True
+recognize,False
+recommend,False
+record,False
+recording,False
+recover,False
+red,False
+reduce,False
+reduction,False
+refer,False
+reference,False
+refer to,False
+reflect,False
+reform,False
+refrigerator,False
+refusal,False
+refuse 1,True
+regard,False
+regarding,False
+region,False
+regional,False
+register,False
+regret,True
+regular,False
+regularly,False
+regulation,False
+reject,False
+relate,False
+related,False
+relate to,False
+relation,False
+relationship,False
+relative,False
+relatively,True
+relax,False
+relaxed,False
+relaxing,False
+release,False
+relevant,False
+relief,True
+religion,False
+religious,False
+rely,False
+rely on,True
+remain,True
+remaining,False
+remains,False
+remark,False
+remarkable,False
+remarkably,False
+remember,False
+remind,False
+remind of,False
+remote,False
+removal,False
+remove,False
+rent,False
+rented,False
+repair,False
+repeat,True
+repeated,False
+repeatedly,False
+replace,True
+reply,False
+report,False
+represent,False
+representative,True
+reproduce,False
+reputation,False
+request,False
+require,False
+requirement,False
+rescue,False
+research,False
+reservation,False
+reserve,False
+resident,False
+resist,False
+resistance,False
+resolve,False
+resort,False
+resort to,False
+resource,True
+respect,False
+respond,False
+response,False
+responsibility,False
+responsible,False
+rest,False
+restaurant,False
+restore,False
+restrict,False
+restricted,True
+restriction,False
+result,False
+result in,False
+retain,False
+retire,False
+retired,False
+retirement,False
+return,False
+reveal,False
+reverse,False
+review,False
+revise,False
+revision,False
+revolution,False
+reward,False
+rhythm,False
+rice,False
+rich,True
+rid,False
+ride,False
+rider,False
+ridiculous,False
+riding,False
+right,False
+rightly,False
+ring 1,False
+ring 2,False
+ring back,False
+rise,False
+risk,False
+rival,False
+river,False
+road,False
+rob,True
+rock,True
+role,False
+roll,False
+romantic,False
+roof,False
+room,False
+root,False
+rope,False
+rough,False
+roughly,False
+round,False
+rounded,False
+route,False
+routine,False
+row 1,False
+royal,False
+rub,False
+rubber,False
+rubbish,False
+rude,False
+rudely,False
+ruin,False
+ruined,True
+rule,False
+rule out,False
+ruler,False
+rumour,False
+run,False
+run after,False
+run away,False
+runner,False
+running,False
+run out,False
+run over,True
+run through,False
+rural,False
+rush,False
+sack,False
+sad,False
+sadly,True
+sadness,False
+safe,False
+safely,False
+safety,False
+sail,False
+sailing,False
+sailor,False
+salad,False
+salary,False
+sale,False
+salt,False
+salty,False
+same,False
+sample,False
+sand,False
+satisfaction,False
+satisfied,False
+satisfy,False
+satisfying,False
+Saturday,False
+sauce,True
+save,False
+saving,False
+say,False
+scale,False
+scare,False
+scared,False
+scare off,False
+scene,False
+schedule,False
+scheme,True
+school,False
+science,False
+scientific,False
+scientist,True
+scissors,False
+score,False
+scratch,False
+scream,False
+screen,False
+screw,False
+sea,True
+seal,False
+seal off,True
+search,False
+season,False
+seat,False
+second 1,False
+secondary,False
+secret,False
+secretary,False
+secretly,False
+section,False
+sector,False
+secure,False
+security,False
+see,False
+see about,False
+seed,False
+seek,False
+seem,False
+see to,False
+select,False
+selection,False
+self,False
+self-,False
+sell,False
+sell off,False
+sell out,False
+senate,False
+senator,False
+send,False
+send for,False
+send off,False
+senior,False
+sense,False
+sensible,False
+sensitive,True
+sentence,False
+separate,True
+separated,False
+separately,False
+separation,False
+September,False
+series,False
+serious,False
+seriously,False
+servant,False
+serve,False
+service,False
+session,True
+set,True
+set off,False
+set out,False
+settle,False
+settle down,False
+set up,False
+seven,False
+seventeen,False
+seventh,False
+seventieth,False
+seventy,False
+several,False
+severe,False
+severely,False
+sew,False
+sewing,False
+sex,False
+sexual,False
+sexually,False
+shade,False
+shadow,False
+shake,True
+shall,False
+shallow,True
+shame,False
+shape,False
+shaped,True
+share,False
+sharp,True
+sharply,False
+shave,False
+she,False
+sheep,False
+sheet,False
+shelf,False
+shell,False
+shelter,False
+shift,False
+shine,False
+shiny,False
+ship,False
+shirt,False
+shock,False
+shocked,True
+shocking,False
+shoe,False
+shoot,False
+shoot down,True
+shooting,False
+shop,True
+shopping,False
+short,False
+shortly,False
+shot,False
+should,False
+shoulder,False
+shout,False
+show,False
+shower,False
+show off,False
+show round,False
+show up,False
+shut,False
+shut down,False
+shut in,False
+shut out,False
+shut up,False
+shy,False
+sick,False
+side,True
+sideways,False
+sight,False
+sign,False
+signal,False
+signature,False
+significant,False
+significantly,False
+silence,False
+silent,True
+silk,False
+silly,False
+silver,True
+similar,False
+similarly,True
+simple,False
+simply,False
+since,False
+sincere,False
+sincerely,False
+sing,False
+singer,False
+singing,False
+single,False
+sink,False
+sir,False
+sister,False
+sit,False
+sit down,False
+site,False
+situation,False
+six,True
+sixteen,False
+sixth,False
+sixtieth,False
+sixty,False
+size,True
+skilful,False
+skilfully,False
+skill,False
+skilled,False
+skin,False
+skirt,False
+sky,False
+sleep,False
+sleeve,False
+slice,False
+slide,False
+slight,False
+slightly,True
+slip,True
+slope,False
+slow,False
+slowly,False
+small,False
+smart,False
+smash,True
+smell,True
+smile,False
+smoke,False
+smoking,False
+smooth,False
+smoothly,False
+snake,False
+snow,False
+so,False
+soap,False
+social,False
+socially,False
+society,False
+sock,False
+soft,False
+softly,False
+software,False
+soil,False
+soldier,False
+solid,False
+solution,False
+solve,False
+some,True
+somebody,False
+somehow,True
+someone,False
+something,False
+sometimes,False
+somewhat,False
+somewhere,False
+son,False
+song,False
+soon,False
+sore,False
+sorry,False
+sort,False
+sort out,True
+soul,False
+sound,False
+soup,False
+sour,False
+source,False
+south,False
+southern,False
+space,False
+spare,False
+speak,False
+speaker,False
+speak out,True
+speak up,False
+special,True
+specialist,False
+specially,False
+specific,False
+specifically,True
+speech,False
+speed,False
+speed up,False
+spell,True
+spelling,False
+spend,False
+spice,False
+spicy,True
+spider,False
+spin,False
+spirit,False
+spiritual,False
+spite,False
+split,False
+split up,False
+spoil,False
+spoken,True
+spoon,False
+sport,False
+spot,False
+spray,False
+spread,False
+spread out,True
+spring,False
+square,False
+squeeze,False
+stable,False
+staff,False
+stage,False
+stair,False
+stamp,True
+stand,True
+standard,False
+stand back,False
+stand by,True
+stand for,False
+stand out,False
+stand up,False
+stand up for,False
+star,False
+stare,True
+start,False
+start off,False
+start out,True
+start up,False
+state,False
+statement,False
+station,True
+statue,False
+status,False
+stay,False
+stay away,False
+stay out of,False
+steadily,False
+steady,False
+steal,False
+steam,False
+steel,False
+steep,False
+steeply,True
+steer,True
+step,False
+stick,False
+stick out,False
+stick to,True
+stick up,False
+sticky,True
+stiff,False
+stiffly,False
+still,True
+sting,False
+stir,False
+stock,False
+stomach,False
+stone,False
+stop,False
+store,False
+storm,False
+story,False
+stove,False
+straight,False
+strain,False
+strange,True
+strangely,False
+stranger,False
+strategy,False
+stream,False
+street,False
+strength,False
+stress,False
+stressed,False
+stretch,False
+strict,False
+strictly,False
+strike,False
+striking,False
+string,False
+strip,False
+stripe,False
+striped,False
+stroke,False
+strong,False
+strongly,True
+structure,False
+struggle,False
+student,False
+studio,False
+study,False
+stuff,True
+stupid,False
+style,False
+subject,False
+substance,False
+substantial,False
+substantially,False
+substitute,False
+succeed,False
+success,True
+successful,False
+successfully,False
+such,False
+suck,False
+sudden,False
+suddenly,False
+suffer,False
+suffering,False
+sufficient,False
+sufficiently,False
+sugar,True
+suggest,False
+suggestion,False
+suit,True
+suitable,False
+suitcase,False
+suited,False
+sum,False
+summary,False
+summer,False
+sum up,False
+sun,False
+Sunday,False
+superior,False
+supermarket,False
+supply,False
+support,False
+supporter,False
+suppose,False
+sure,True
+surely,True
+surface,False
+surname,False
+surprise,False
+surprised,False
+surprising,False
+surprisingly,False
+surround,False
+surrounding,False
+surroundings,False
+survey,False
+survive,False
+suspect,False
+suspicion,False
+suspicious,False
+swallow,False
+swear,False
+swearing,False
+sweat,False
+sweater,False
+sweep,False
+sweet,False
+swell,False
+swelling,False
+swim,False
+swimming,False
+swimming pool,False
+swing,False
+switch,False
+switch off,False
+swollen,False
+symbol,False
+sympathetic,True
+sympathy,True
+system,False
+table,False
+tablet,False
+tackle,False
+tail,False
+take,False
+take away,False
+take back,False
+take down,False
+take in,False
+take off,False
+take on,True
+take over,False
+take up,False
+talk,True
+tall,False
+tank,False
+tap,False
+tape,False
+target,False
+task,False
+taste,False
+tax,True
+taxi,False
+tea,False
+teach,False
+teacher,False
+teaching,False
+team,False
+tear 1,False
+tear 2,False
+tear up,False
+technical,False
+technique,True
+technology,False
+telephone,False
+television,False
+tell,False
+tell off,False
+temperature,False
+temporarily,True
+temporary,True
+ten,False
+tend,False
+tendency,False
+tension,False
+tent,True
+tenth,False
+term,False
+terrible,False
+terribly,False
+test,False
+text,False
+than,False
+thank,False
+thanks,True
+thank you,False
+that,False
+the,False
+theatre,False
+their,False
+theirs,False
+them,False
+theme,False
+themselves,False
+then,False
+theory,False
+there,False
+therefore,False
+they,False
+thick,False
+thickly,False
+thickness,False
+thief,False
+thin,False
+thing,False
+think,False
+think about,False
+thinking,False
+think of,False
+think of as,False
+think over,True
+think up,False
+third,False
+thirsty,False
+thirteen,False
+thirteenth,False
+thirtieth,False
+thirty,False
+this,False
+thorough,False
+thoroughly,False
+though,False
+thought,False
+thousand,False
+thousandth,False
+thread,False
+threat,False
+threaten,False
+threatening,False
+three,False
+throat,True
+through,False
+throughout,False
+throw,False
+throw away,True
+throw out,False
+thumb,False
+Thursday,False
+thus,False
+ticket,False
+tidy,False
+tie,False
+tie up,False
+tight,True
+tightly,False
+till,False
+time,False
+timetable,False
+tin,False
+tiny,True
+tip,False
+tip over,False
+tire,False
+tired,True
+tire out,False
+tiring,False
+title,False
+to,False
+today,False
+toe,False
+together,False
+toilet,False
+tomato,False
+tomorrow,False
+ton,False
+tone,False
+tongue,False
+tonight,False
+tonne,False
+too,True
+tool,False
+tooth,False
+top,False
+topic,False
+total,False
+totally,False
+touch,True
+tough,False
+tour,False
+tourist,False
+towards,False
+towel,True
+tower,False
+town,False
+toy,False
+trace,False
+track,True
+trade,False
+trading,False
+tradition,True
+traditional,False
+traditionally,False
+traffic,False
+train,False
+training,False
+transfer,False
+transform,False
+translate,False
+translation,False
+transparent,False
+transport,False
+transportation,False
+trap,False
+travel,False
+traveller,False
+treat,False
+treatment,False
+tree,True
+trend,False
+trial,False
+triangle,False
+trick,True
+trip,False
+tropical,False
+trouble,False
+trousers,False
+truck,False
+true,False
+truly,False
+trust,False
+truth,False
+try,False
+try on,False
+try out,False
+tube,False
+Tuesday,False
+tune,True
+tunnel,False
+turn,False
+turn back,False
+turn down,False
+turn into,False
+turn off,True
+turn on,False
+turn out,False
+turn over,False
+turn round,False
+turn to,False
+turn up,False
+TV,False
+twelfth,False
+twelve,False
+twentieth,False
+twenty,False
+twice,False
+twin,False
+twist,False
+twisted,False
+two,False
+type,False
+typical,False
+typically,False
+tyre,False
+the unemployed,False
+the unexpected,False
+ugly,False
+ultimate,False
+ultimately,False
+umbrella,True
+unable,False
+unacceptable,False
+uncertain,False
+uncle,False
+uncomfortable,True
+unconscious,True
+uncontrolled,False
+under,False
+underground,False
+underneath,False
+understand,False
+understanding,False
+underwater,False
+underwear,False
+undo,False
+unemployed,False
+unemployment,True
+unexpected,False
+unexpectedly,False
+unfair,False
+unfairly,False
+unfortunate,False
+unfortunately,False
+unfriendly,False
+unhappy,False
+uniform,False
+unimportant,True
+union,False
+unique,False
+unit,False
+unite,False
+united,True
+universe,False
+university,False
+unkind,False
+unknown,False
+unless,False
+unlike,False
+unlikely,False
+unload,True
+unlucky,False
+unnecessary,False
+unpleasant,False
+unreasonable,False
+unsteady,False
+unsuccessful,False
+untidy,False
+until,False
+unusual,False
+unusually,False
+unwilling,False
+unwillingly,False
+up,False
+upon,False
+upper,False
+upset,False
+upsetting,False
+upside down,False
+upstairs,False
+upward,False
+upwards,False
+urban,False
+urge,False
+urgent,False
+us,False
+use,True
+used 1,False
+used 2,False
+used to,False
+useful,False
+useless,False
+user,False
+use up,False
+usual,False
+usually,False
+vacation,False
+valid,False
+valley,True
+valuable,True
+value,False
+van,False
+variation,False
+varied,False
+variety,False
+various,False
+vary,False
+vast,False
+vegetable,False
+vehicle,False
+venture,False
+version,False
+vertical,False
+very,False
+via,False
+victim,False
+victory,False
+video,False
+view,False
+village,False
+violence,False
+violent,False
+violently,False
+virtually,False
+virus,False
+visible,False
+vision,True
+visit,False
+visitor,True
+vital,False
+vocabulary,False
+voice,False
+volume,True
+vote,False
+wage,False
+waist,False
+wait,False
+waiter,False
+wake,True
+walk,False
+walking,False
+walk out,False
+walk up,False
+wall,False
+wallet,False
+wander,False
+want,False
+war,False
+warm,False
+warmth,False
+warm up,False
+warn,False
+warning,False
+wash,False
+wash away,False
+washing,False
+wash off,False
+wash out,False
+wash up,False
+waste,False
+watch,False
+watch out,False
+watch out for,False
+water,False
+wave,False
+way,False
+we,False
+weak,True
+weakness,False
+wealth,False
+weapon,False
+wear,False
+wear away,False
+wear off,False
+wear out,False
+weather,False
+web,True
+website,True
+wedding,False
+Wednesday,False
+week,False
+weekend,False
+weekly,False
+weigh,False
+weight,False
+welcome,False
+well,False
+well known,False
+west,False
+western,False
+wet,False
+what,False
+whatever,False
+wheel,False
+when,False
+whenever,False
+where,False
+whereas,False
+wherever,False
+whether,False
+which,False
+while,False
+whisper,False
+whistle,False
+white,False
+who,False
+whoever,False
+whole,False
+whom,False
+whose,False
+why,False
+wide,False
+widely,False
+width,False
+wife,False
+wild,False
+wildly,False
+will,False
+willing,True
+willingly,False
+willingness,False
+win,False
+wind 1,False
+wind 2,False
+window,True
+wine,False
+wing,False
+winner,False
+winning,False
+winter,False
+wire,False
+wise,False
+wish,True
+with,False
+withdraw,False
+within,False
+without,False
+witness,False
+woman,False
+wonder,True
+wonderful,False
+wood,False
+wooden,False
+wool,True
+word,False
+work,True
+worker,False
+working,False
+work out,False
+world,False
+worried,False
+worry,False
+worrying,False
+worse,False
+worship,False
+worst,False
+worth,False
+would,False
+wound 1,False
+wounded,False
+wrap,False
+wrapping,False
+wrist,False
+write,False
+write back,False
+write down,False
+writer,False
+writing,False
+written,False
+wrong,False
+wrongly,False
+yard,False
+yawn,False
+yeah,False
+year,False
+yellow,False
+yes,False
+yesterday,False
+yet,False
+you,True
+young,True
+your,False
+yours,True
+yourself,False
+youth,False
+zero,False
+zone,False
