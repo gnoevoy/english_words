@@ -3,32 +3,33 @@ import numpy as np
 import random
 
 
-def get_new_words(df):
-    num = 20
-    new_words = df.query("is_passed == False")
-    lst = new_words["word"].to_list()
-    res = random.choices(lst, k=num)
-    return res
+def get_values(df, num1, num2):
+    # pick up new random values
+    new_values = df.query("is_passed == False")
+    new_values_lst = random.choices(new_values["value"].to_list(), k=num1)
 
-
-def get_passed_words(df, lst):
     # update table
-    df["is_passed"] = np.where(df["word"].isin(lst), True, df["is_passed"])
+    df["is_passed"] = np.where(df["value"].isin(new_values_lst), True, df["is_passed"])
 
-    num = 10
-    new_words = df.query("is_passed == True")
-    lst = new_words["word"].to_list()
-    res = random.choices(lst, k=num)
-    return res
+    # select passed values
+    passed_values = df.query("is_passed == True")
+    passed_values_lst = random.choices(passed_values["value"].to_list(), k=num2)
+
+    return new_values_lst, passed_values_lst
 
 
 def main():
-    df = pd.read_csv("words.csv")
-    new_words = get_new_words(df)
-    passed_words = get_passed_words(df, new_words)
+    words = pd.read_csv("words.csv")
+    phrases = pd.read_csv("phrases.csv")
+
+    new_words, passed_words = get_values(words, 20, 10)
+    new_phrases, passed_phrases = get_values(phrases, 3, 1)
 
     print("New words:", new_words)
     print("Passed words:", passed_words)
+    print("")
+    print("New phrases:", new_phrases)
+    print("Passed phrases:", passed_phrases)
 
 
 if __name__ == "__main__":
