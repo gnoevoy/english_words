@@ -221,7 +221,7 @@ engage in sth,False
 engaged in sth,False
 even if,False
 even more…,False
-even though,False
+even though,True
 ever since,False
 every day,False
 everyone else,False
@@ -337,7 +337,7 @@ have you ever…?,False
 he or she,False
 health problems,False
 hear about sb/sth,False
-hear of sb/sth,False
+hear of sb/sth,True
 heart disease,False
 high school,False
 high street,False
@@ -360,7 +360,7 @@ i wonder if…,False
 i would say…,False
 i'm afraid…,False
 i'm sorry,False
-if i were you,False
+if i were you,True
 if necessary,False
 if only…,False
 if you want to,False
@@ -373,7 +373,7 @@ in addition,False
 in advance,False
 in an attempt to do sth,False
 in any case,False
-in april,False
+in april,True
 in bed,False
 in business,False
 in case…,False
@@ -440,7 +440,7 @@ in the same way,False
 in the street,False
 in the summer,False
 in the wake of sb/sth,False
-in the way (that)…,False
+in the way (that)…,True
 in this case,False
 in this way,False
 in time,False
@@ -595,7 +595,7 @@ quite a…,False
 raise money,False
 ranging from,False
 rather than,False
-reaction to sth,False
+reaction to sth,True
 really enjoy,False
 really good,False
 really like,False
