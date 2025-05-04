@@ -130,7 +130,7 @@ be made up of sth,False
 be meant to do sth,False
 be reported to be sth,False
 be said to be sth,False
-be supposed to do sth,False
+be supposed to do sth,True
 be surrounded by sb/sth,False
 be to blame,False
 bear sb/sth in mind,False
@@ -586,7 +586,7 @@ prove to be sth,False
 public transport,False
 put it,False
 put sth forward,False
-put sth on,False
+put sth on,True
 put sth together,False
 put sth up,False
 quality of life,False
@@ -715,7 +715,7 @@ up against sth,False
 up and down,False
 up to sb,False
 up to sth,False
-wait for sb/sth,False
+wait for sb/sth,True
 wake up,False
 way of life,False
 welcome to sth,False

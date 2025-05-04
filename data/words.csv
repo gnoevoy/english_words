@@ -74,7 +74,7 @@ advise,False
 affair,False
 affect,False
 affection,False
-afford,False
+afford,True
 afraid,False
 after,False
 afternoon,False
@@ -424,7 +424,7 @@ bring forward,False
 bring out,False
 bring up,False
 broad,True
-broadcast,False
+broadcast,True
 broadly,False
 broken,True
 brother,False
@@ -751,7 +751,7 @@ cook,False
 cooker,False
 cookie,False
 cooking,False
-cool,False
+cool,True
 cool down,False
 cope,False
 copy,False
@@ -883,7 +883,7 @@ defend,False
 define,False
 definite,False
 definitely,False
-definition,False
+definition,True
 degree,False
 delay,False
 deliberate,True
@@ -1420,7 +1420,7 @@ function as,False
 fund,False
 fundamental,False
 funeral,False
-funny,False
+funny,True
 fur,False
 furniture,False
 further,False
@@ -1522,7 +1522,7 @@ gram,False
 grammar,False
 grand,False
 grandchild,False
-granddaughter,False
+granddaughter,True
 grandfather,False
 grandmother,False
 grandparent,False
@@ -1655,9 +1655,9 @@ honour,False
 hook,False
 hope,False
 horizontal,True
-horn,False
+horn,True
 horror,False
-horse,False
+horse,True
 hospital,False
 host,False
 hot,True
@@ -1689,7 +1689,7 @@ ideal,False
 identify,False
 identify with,True
 identity,False
-i.e.,False
+i.e.,True
 if,False
 ignore,False
 ill,False
@@ -2146,7 +2146,7 @@ moon,False
 moral,False
 morally,True
 more,False
-moreover,False
+moreover,True
 morning,False
 most,False
 mostly,False
@@ -2254,7 +2254,7 @@ note,False
 note down,False
 nothing,False
 notice,False
-noticeable,False
+noticeable,True
 novel,False
 November,False
 now,False
@@ -2276,7 +2276,7 @@ occasionally,False
 occupied,True
 occupy,False
 occur,False
-occur to,False
+occur to,True
 ocean,False
 o’clock,False
 October,False
@@ -2294,7 +2294,7 @@ officer,False
 official,False
 officially,False
 often,False
-oh,False
+oh,True
 oil,False
 OK,False
 old,False
@@ -2692,7 +2692,7 @@ railroad,False
 railway,False
 rain,False
 raise,False
-range,False
+range,True
 rank,False
 rapid,False
 rapidly,False
@@ -2876,7 +2876,7 @@ rubber,False
 rubbish,False
 rude,False
 rudely,False
-ruin,False
+ruin,True
 ruined,True
 rule,False
 rule out,False
@@ -3169,7 +3169,7 @@ specific,False
 specifically,True
 speech,False
 speed,False
-speed up,False
+speed up,True
 spell,True
 spelling,False
 spend,False
@@ -3179,7 +3179,7 @@ spider,False
 spin,False
 spirit,False
 spiritual,False
-spite,False
+spite,True
 split,False
 split up,False
 spoil,False
@@ -3745,7 +3745,7 @@ weigh,False
 weight,False
 welcome,False
 well,False
-well known,False
+well known,True
 west,False
 western,False
 wet,False
@@ -3795,7 +3795,7 @@ with,False
 withdraw,False
 within,False
 without,False
-witness,False
+witness,True
 woman,False
 wonder,True
 wonderful,False
@@ -3811,7 +3811,7 @@ world,False
 worried,False
 worry,False
 worrying,False
-worse,False
+worse,True
 worship,False
 worst,False
 worth,False
