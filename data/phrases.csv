@@ -191,7 +191,7 @@ consist of sb/sth,False
 consistent with sth,False
 contribute to sth,False
 control over sb/sth,False
-cope with sth,False
+cope with sth,True
 credit card,False
 deal with sb,False
 deal with sth,False
@@ -223,7 +223,7 @@ even if,False
 even more…,False
 even though,True
 ever since,False
-every day,False
+every day,True
 everyone else,False
 exactly the same,False
 except for,False
@@ -329,7 +329,7 @@ have fun,False
 have got,False
 have got to,False
 have no idea,False
-have nothing to do with sb/sth,False
+have nothing to do with sb/sth,True
 have sb/sth in mind,False
 have sth in common,False
 have time,False
@@ -495,7 +495,7 @@ mobile phone,False
 more and more,False
 more or less,False
 more than…,False
-move on,False
+move on,True
 much better,False
 next time,False
 next year,False
@@ -607,7 +607,7 @@ related to sth/sb,False
 relevant to sb/sth,False
 rely on sb/sth,False
 report on sth,False
-respect for sb/sth,False
+respect for sb/sth,True
 respond to sth/sb,False
 result in sth,False
 right now,False
@@ -628,7 +628,7 @@ set to do sth,False
 short of sth,False
 sit down,False
 slow down,False
-so as to do sth,False
+so as to do sth,True
 so far,False
 so that…,False
 solution to sth,False

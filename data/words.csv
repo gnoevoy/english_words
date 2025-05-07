@@ -157,7 +157,7 @@ answer,False
 anti-,False
 anticipate,True
 anxiety,False
-anxious,False
+anxious,True
 anxiously,False
 any,False
 anybody,False
@@ -529,7 +529,7 @@ certainly,False
 certificate,False
 chain,False
 chair,False
-chairman,False
+chairman,True
 chairwoman,False
 challenge,True
 chamber,False
@@ -836,7 +836,7 @@ cut down,False
 cut off,False
 cut out,False
 cut up,False
-cycle,False
+cycle,True
 cycling,False
 dad,False
 daily,False
@@ -938,7 +938,7 @@ diary,False
 dictionary,False
 die,False
 die away,False
-die out,False
+die out,True
 diet,False
 difference,False
 different,False
@@ -956,7 +956,7 @@ dirt,False
 dirty,False
 disabled,False
 disadvantage,False
-disagree,False
+disagree,True
 disagreement,False
 disagree with doing,False
 disappear,False
@@ -1054,7 +1054,7 @@ DVD,False
 dying,False
 each,True
 each other,False
-ear,False
+ear,True
 early,False
 earn,False
 earth,True
@@ -1082,7 +1082,7 @@ efficiently,False
 effort,False
 e.g.,False
 egg,False
-eight,False
+eight,True
 eighteen,False
 eighteenth,False
 eighth,False
@@ -1209,7 +1209,7 @@ excluding,False
 excuse,False
 executive,False
 exercise,False
-exhibit,False
+exhibit,True
 exhibition,False
 exist,False
 existence,False
@@ -1461,7 +1461,7 @@ get into,False
 get off,False
 get on,False
 get on with,False
-get out of,False
+get out of,True
 get over,False
 get round,False
 get round to,False
@@ -1922,7 +1922,7 @@ leave out,False
 lecture,False
 left,False
 leg,False
-legal,False
+legal,True
 legally,False
 lemon,False
 lend,False
@@ -2030,7 +2030,7 @@ make,False
 make into,False
 make up,False
 make-up,False
-make up for,False
+make up for,True
 male,False
 mall,False
 man,False
@@ -2111,7 +2111,7 @@ milligram,True
 millimetre,False
 million,False
 millionth,False
-mind,False
+mind,True
 mine,False
 mineral,False
 minimum,False
@@ -2136,10 +2136,10 @@ mobile phone,False
 model,False
 modern,False
 mom,False
-moment,False
+moment,True
 Monday,False
 money,False
-monitor,False
+monitor,True
 month,False
 mood,False
 moon,False
@@ -2185,7 +2185,7 @@ my,False
 myself,False
 mysterious,False
 mystery,True
-nail,False
+nail,True
 naked,False
 name,True
 narrow,False
@@ -2306,7 +2306,7 @@ one another,True
 onion,False
 online,False
 only,False
-onto,False
+onto,True
 open,False
 opening,True
 openly,False
@@ -2553,7 +2553,7 @@ prepare,False
 prepared,False
 presence,False
 present,False
-presentation,False
+presentation,True
 preserve,True
 president,False
 press,True
@@ -2580,7 +2580,7 @@ print off,False
 prior,False
 priority,False
 prison,False
-prisoner,False
+prisoner,True
 private,False
 privately,True
 prize,False
@@ -2662,7 +2662,7 @@ put back,False
 put down,False
 put forward,False
 put in,False
-put off,False
+put off,True
 put on,False
 put out,False
 put through,False
@@ -2821,7 +2821,7 @@ restaurant,False
 restore,False
 restrict,False
 restricted,True
-restriction,False
+restriction,True
 result,False
 result in,False
 retain,False
@@ -3006,9 +3006,9 @@ sex,False
 sexual,False
 sexually,False
 shade,False
-shadow,False
+shadow,True
 shake,True
-shall,False
+shall,True
 shallow,True
 shame,False
 shape,False
@@ -3165,7 +3165,7 @@ speak up,False
 special,True
 specialist,False
 specially,False
-specific,False
+specific,True
 specifically,True
 speech,False
 speed,False
@@ -3182,7 +3182,7 @@ spiritual,False
 spite,True
 split,False
 split up,False
-spoil,False
+spoil,True
 spoken,True
 spoon,False
 sport,False
@@ -3196,7 +3196,7 @@ squeeze,False
 stable,False
 staff,False
 stage,False
-stair,False
+stair,True
 stamp,True
 stand,True
 standard,False
@@ -3391,7 +3391,7 @@ tell off,False
 temperature,False
 temporarily,True
 temporary,True
-ten,False
+ten,True
 tend,False
 tendency,False
 tension,False
@@ -3502,7 +3502,7 @@ tour,False
 tourist,False
 towards,False
 towel,True
-tower,False
+tower,True
 town,False
 toy,False
 trace,False
@@ -3616,14 +3616,14 @@ university,False
 unkind,False
 unknown,False
 unless,False
-unlike,False
+unlike,True
 unlikely,False
 unload,True
 unlucky,False
 unnecessary,False
 unpleasant,False
 unreasonable,False
-unsteady,False
+unsteady,True
 unsuccessful,False
 untidy,False
 until,False
@@ -3646,7 +3646,7 @@ urgent,False
 us,False
 use,True
 used 1,False
-used 2,False
+used 2,True
 used to,False
 useful,False
 useless,False
