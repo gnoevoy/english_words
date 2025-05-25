@@ -206,7 +206,7 @@ deprive sb/sth of sth,False
 despite the fact that…,False
 developing countries,False
 differences between a and b,False
-difficult for sb,False
+difficult for sb,True
 dispose of sb/sth,False
 do well,False
 draw attention to sb/sth,False
@@ -275,7 +275,7 @@ get home,False
 get in,False
 get lost,False
 get married,False
-get off,False
+get off,True
 get on,False
 get on with sb,False
 get out,False
@@ -524,7 +524,7 @@ on board,False
 on earth,False
 on holiday,False
 on monday,False
-on my own,False
+on my own,True
 on television,False
 on the basis of sth,False
 on the beach,False

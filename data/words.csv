@@ -538,7 +538,7 @@ change,False
 change round,True
 channel,False
 chapter,False
-character,False
+character,True
 characteristic,False
 charge,False
 charity,False
@@ -768,7 +768,7 @@ could,False
 council,False
 count,False
 counter,False
-count on,False
+count on,True
 country,False
 countryside,False
 county,False
@@ -1304,7 +1304,7 @@ fifth,False
 fiftieth,True
 fifty,False
 fight,False
-fighting,False
+fighting,True
 figure,False
 figure out,False
 file,False
@@ -1443,7 +1443,7 @@ general,False
 generally,True
 generate,False
 generation,False
-generous,False
+generous,True
 generously,False
 gentle,True
 gentleman,False
@@ -1537,7 +1537,7 @@ greatly,False
 green,False
 grey,False
 grocery,False
-ground,False
+ground,True
 group,True
 grow,False
 growth,True
@@ -1996,7 +1996,7 @@ look up,False
 look up to,False
 loose,False
 loosely,False
-lord,False
+lord,True
 lorry,False
 lose,False
 loss,False
@@ -2764,7 +2764,7 @@ relative,False
 relatively,True
 relax,False
 relaxed,False
-relaxing,False
+relaxing,True
 release,False
 relevant,False
 relief,True
@@ -3075,7 +3075,7 @@ simply,False
 since,False
 sincere,False
 sincerely,False
-sing,False
+sing,True
 singer,False
 singing,False
 single,False
@@ -3434,7 +3434,7 @@ think over,True
 think up,False
 third,False
 thirsty,False
-thirteen,False
+thirteen,True
 thirteenth,False
 thirtieth,False
 thirty,False
@@ -3579,7 +3579,7 @@ ugly,False
 ultimate,False
 ultimately,False
 umbrella,True
-unable,False
+unable,True
 unacceptable,False
 uncertain,False
 uncle,False
