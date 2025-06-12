@@ -23,7 +23,7 @@ def main():
     phrases = pd.read_csv("data/phrases.csv")
 
     new_words, passed_words = get_values(words, "word", 10, 10)
-    new_phrases, passed_phrases = get_values(phrases, "phrase", 3, 1)
+    new_phrases, passed_phrases = get_values(phrases, "phrase", 3, 3)
 
     # save changes to the CSV files
     words.to_csv("data/words.csv", index=False)
